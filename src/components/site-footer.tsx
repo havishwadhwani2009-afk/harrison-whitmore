@@ -7,7 +7,7 @@ const columns: { title: string; links: { href: string; label: string }[] }[] = [
     links: [
       { href: "/men", label: "Men" },
       { href: "/women", label: "Women" },
-      { href: "/new-arrivals", label: "New Arrivals" },
+      { href: "/new-arrivals", label: "Fall/Winter 2026–27" },
       { href: "/men/accessories", label: "Accessories" },
       { href: "/gift-cards", label: "Gift Cards" },
     ],

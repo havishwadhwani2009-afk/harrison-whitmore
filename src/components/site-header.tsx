@@ -154,7 +154,7 @@ export function SiteHeader() {
             </div>
           ))}
           <Link href="/new-arrivals" className="text-[15px] tracking-wide transition-colors hover:text-fg-muted">
-            New Arrivals
+            Fall/Winter 2026–27
           </Link>
           <Link href="/journal" className="text-[15px] tracking-wide transition-colors hover:text-fg-muted">
             Journal

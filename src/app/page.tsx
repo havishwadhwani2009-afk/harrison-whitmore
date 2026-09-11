@@ -97,7 +97,7 @@ export default function Home() {
           <div className="mb-10 flex items-end justify-between">
             <div>
               <p className="text-sm tracking-[0.15em] text-fg-muted">CURATED</p>
-              <h2 className="mt-1 font-display text-3xl md:text-4xl">New Arrivals &amp; Favourites</h2>
+              <h2 className="mt-1 font-display text-3xl md:text-4xl">Fall/Winter 2026–27 &amp; Favourites</h2>
             </div>
             <Link href="/new-arrivals" className="hidden text-sm underline-offset-4 hover:underline md:block">
               View all

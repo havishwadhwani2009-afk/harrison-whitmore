@@ -69,7 +69,7 @@ export function MobileNav({ open, onClose }: { open: boolean; onClose: () => voi
             </li>
           ))}
           {[
-            { href: "/new-arrivals", label: "New Arrivals" },
+            { href: "/new-arrivals", label: "Fall/Winter 2026–27" },
             { href: "/journal", label: "Journal" },
             { href: "/about", label: "Our Story" },
             { href: "/contact", label: "Contact" },
