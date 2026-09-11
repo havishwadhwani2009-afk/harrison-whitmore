@@ -12,6 +12,15 @@ export const TONE_PALETTE: Record<Tone, { from: string; to: string; line: string
   charcoal: { from: "#454a52", to: "#24272c", line: "#f1ede0" },
 };
 
+const TONE_NAMES = Object.keys(TONE_PALETTE) as Tone[];
+
+/** Our colour names are drawn directly from the tone palette (Navy, Cream, Olive…),
+ * so a product's swatch selection can drive which tone its imagery renders in. */
+export function colorNameToTone(name: string, fallback: Tone): Tone {
+  const key = name.trim().toLowerCase();
+  return (TONE_NAMES as string[]).includes(key) ? (key as Tone) : fallback;
+}
+
 type IconProps = { stroke: string };
 
 /** Minimal single-line garment illustrations, hand-drawn in a restrained editorial style. */

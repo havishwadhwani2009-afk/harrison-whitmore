@@ -1,18 +1,11 @@
 import { notFound } from "next/navigation";
 import Link from "next/link";
-import {
-  getProductBySlug,
-  getRelatedProducts,
-  getCompleteTheLook,
-  formatPrice,
-  CATEGORY_LABELS,
-} from "@/lib/products";
-import { ProductGallery } from "@/components/product-gallery";
-import { ProductPurchasePanel } from "@/components/product-purchase-panel";
+import { getProductBySlug, getRelatedProducts, getCompleteTheLook, CATEGORY_LABELS } from "@/lib/products";
+import { ProductViewer } from "@/components/product-viewer";
 import { AccordionItem } from "@/components/accordion";
-import { StarRating } from "@/components/star-rating";
 import { ProductCard } from "@/components/product-card";
 import { ScrollReveal } from "@/components/scroll-reveal";
+import { RecentlyViewed } from "@/components/recently-viewed";
 
 export default async function ProductPage({ params }: { params: Promise<{ slug: string }> }) {
   const { slug } = await params;
@@ -35,20 +28,8 @@ export default async function ProductPage({ params }: { params: Promise<{ slug: 
       </nav>
 
       <div className="grid grid-cols-1 gap-12 md:grid-cols-2 md:gap-16">
-        <ProductGallery subcategory={product.subcategory} tone={product.tone} productName={product.name} />
-
-        <div>
-          <p className="text-sm tracking-wide text-fg-muted">{product.collection}</p>
-          <h1 className="mt-1 font-display text-3xl md:text-4xl">{product.name}</h1>
-          <p className="mt-3 text-xl">{formatPrice(product.price)}</p>
-          <div className="mt-3">
-            <StarRating rating={product.rating} reviewCount={product.reviewCount} />
-          </div>
-
-          <div className="my-7 hr-fine" />
-
-          <ProductPurchasePanel product={product} />
-
+        <ProductViewer product={product} />
+        <div className="md:col-start-2">
           <div className="mt-10">
             <AccordionItem title="Description" defaultOpen>
               <p>{product.feel}</p>
@@ -104,6 +85,8 @@ export default async function ProductPage({ params }: { params: Promise<{ slug: 
           </div>
         </section>
       )}
+
+      <RecentlyViewed currentProductId={product.id} />
     </div>
   );
 }

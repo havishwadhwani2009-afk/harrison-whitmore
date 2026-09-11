@@ -14,22 +14,37 @@ const ThemeContext = createContext<ThemeContextValue | undefined>(undefined);
 const STORAGE_KEY = "hw-theme";
 
 export function ThemeProvider({ children }: { children: ReactNode }) {
+  // Start at "light" on every render pass, client included, so the client's first
+  // paint matches the server-rendered HTML exactly (avoiding a hydration mismatch
+  // on anything — like the toggle button's icon/label — that renders differently
+  // per theme). The <html> background itself is already correct pre-hydration via
+  // the inline themeInitScript, which sets that attribute imperatively, outside
+  // React's hydration diffing — only this component's own state starts naive.
   const [theme, setTheme] = useState<Theme>("light");
+  const [isHydrated, setIsHydrated] = useState(false);
 
   useEffect(() => {
     const stored = window.localStorage.getItem(STORAGE_KEY) as Theme | null;
-    if (stored === "light" || stored === "dark") {
-      // One-time hydration from localStorage after mount — required to avoid an
-      // SSR/client hydration mismatch, since localStorage isn't available on the server.
-      // eslint-disable-next-line react-hooks/set-state-in-effect
-      setTheme(stored);
-    }
+    const resolved =
+      stored === "light" || stored === "dark"
+        ? stored
+        : window.matchMedia("(prefers-color-scheme: dark)").matches
+          ? "dark"
+          : "light";
+    // eslint-disable-next-line react-hooks/set-state-in-effect
+    setTheme(resolved);
+    setIsHydrated(true);
   }, []);
 
   useEffect(() => {
+    // Guarded by isHydrated so this never fires with the naive "light" default
+    // before the hydration effect above has resolved the real theme — otherwise
+    // this write-effect and the read-effect above race (and can cancel each
+    // other out) under React Strict Mode's double-invoked effects in development.
+    if (!isHydrated) return;
     document.documentElement.setAttribute("data-theme", theme);
     window.localStorage.setItem(STORAGE_KEY, theme);
-  }, [theme]);
+  }, [theme, isHydrated]);
 
   const toggleTheme = () => setTheme((t) => (t === "light" ? "dark" : "light"));
 

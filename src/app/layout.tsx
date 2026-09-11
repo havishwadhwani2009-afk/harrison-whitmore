@@ -5,6 +5,7 @@ import { ThemeProvider, themeInitScript } from "@/context/theme-context";
 import { CartProvider } from "@/context/cart-context";
 import { WishlistProvider } from "@/context/wishlist-context";
 import { AuthProvider } from "@/context/auth-context";
+import { RecentlyViewedProvider } from "@/context/recently-viewed-context";
 import { SiteHeader } from "@/components/site-header";
 import { SiteFooter } from "@/components/site-footer";
 
@@ -43,9 +44,11 @@ export default function RootLayout({ children }: LayoutProps<"/">) {
           <AuthProvider>
             <CartProvider>
               <WishlistProvider>
-                <SiteHeader />
-                <main className="flex-1">{children}</main>
-                <SiteFooter />
+                <RecentlyViewedProvider>
+                  <SiteHeader />
+                  <main className="flex-1">{children}</main>
+                  <SiteFooter />
+                </RecentlyViewedProvider>
               </WishlistProvider>
             </CartProvider>
           </AuthProvider>

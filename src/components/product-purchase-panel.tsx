@@ -7,8 +7,15 @@ import { useWishlist } from "@/context/wishlist-context";
 import { HeartIcon, MinusIcon, PlusIcon } from "./icons";
 import type { Product } from "@/lib/types";
 
-export function ProductPurchasePanel({ product }: { product: Product }) {
-  const [color, setColor] = useState(product.colors[0]?.name ?? "");
+export function ProductPurchasePanel({
+  product,
+  color,
+  onColorChange,
+}: {
+  product: Product;
+  color: string;
+  onColorChange: (color: string) => void;
+}) {
   const [size, setSize] = useState("");
   const [quantity, setQuantity] = useState(1);
   const [justAdded, setJustAdded] = useState(false);
@@ -41,7 +48,7 @@ export function ProductPurchasePanel({ product }: { product: Product }) {
             <button
               key={c.name}
               type="button"
-              onClick={() => setColor(c.name)}
+              onClick={() => onColorChange(c.name)}
               aria-label={c.name}
               className={`h-8 w-8 rounded-full border-2 transition-transform cursor-pointer ${
                 color === c.name ? "border-fg scale-110" : "border-transparent"
