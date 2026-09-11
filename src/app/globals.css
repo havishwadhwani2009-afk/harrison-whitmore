@@ -1,0 +1,164 @@
+@import "tailwindcss";
+
+:root {
+  /* Light mode — cream & navy, the brand's restrained two-tone palette */
+  --color-bg: #faf6ee;
+  --color-bg-elevated: #fffdf8;
+  --color-bg-sunken: #f2ecdd;
+  --color-fg: #1a2233;
+  --color-fg-muted: #5b5747;
+  --color-accent: #142440;
+  --color-accent-soft: #142440cc;
+  --color-on-accent: #faf6ee;
+  --color-border: #1a223317;
+  --color-border-strong: #1a223330;
+  --color-overlay: #14244008;
+
+  --font-serif-display: var(--font-cormorant);
+  --font-serif-text: var(--font-garamond);
+
+  --shadow-soft: 0 1px 2px rgba(20, 36, 64, 0.04), 0 8px 24px rgba(20, 36, 64, 0.06);
+  --shadow-lift: 0 2px 8px rgba(20, 36, 64, 0.08), 0 16px 40px rgba(20, 36, 64, 0.1);
+
+  --radius-sm: 2px;
+  --radius-md: 4px;
+  --radius-lg: 6px;
+
+  color-scheme: light;
+}
+
+:root[data-theme="dark"] {
+  --color-bg: #0e1727;
+  --color-bg-elevated: #142238;
+  --color-bg-sunken: #0a121f;
+  --color-fg: #f4efe2;
+  --color-fg-muted: #b9b2a0;
+  --color-accent: #f4efe2;
+  --color-accent-soft: #f4efe2cc;
+  --color-on-accent: #142440;
+  --color-border: #f4efe21c;
+  --color-border-strong: #f4efe233;
+  --color-overlay: #f4efe20a;
+
+  --shadow-soft: 0 1px 2px rgba(0, 0, 0, 0.2), 0 8px 24px rgba(0, 0, 0, 0.28);
+  --shadow-lift: 0 2px 8px rgba(0, 0, 0, 0.25), 0 16px 40px rgba(0, 0, 0, 0.35);
+
+  color-scheme: dark;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --color-bg: #0e1727;
+    --color-bg-elevated: #142238;
+    --color-bg-sunken: #0a121f;
+    --color-fg: #f4efe2;
+    --color-fg-muted: #b9b2a0;
+    --color-accent: #f4efe2;
+    --color-accent-soft: #f4efe2cc;
+    --color-on-accent: #142440;
+    --color-border: #f4efe21c;
+    --color-border-strong: #f4efe233;
+    --color-overlay: #f4efe20a;
+
+    --shadow-soft: 0 1px 2px rgba(0, 0, 0, 0.2), 0 8px 24px rgba(0, 0, 0, 0.28);
+    --shadow-lift: 0 2px 8px rgba(0, 0, 0, 0.25), 0 16px 40px rgba(0, 0, 0, 0.35);
+
+    color-scheme: dark;
+  }
+}
+
+@theme inline {
+  --color-bg: var(--color-bg);
+  --color-bg-elevated: var(--color-bg-elevated);
+  --color-bg-sunken: var(--color-bg-sunken);
+  --color-fg: var(--color-fg);
+  --color-fg-muted: var(--color-fg-muted);
+  --color-accent: var(--color-accent);
+  --color-on-accent: var(--color-on-accent);
+  --color-border: var(--color-border);
+  --color-border-strong: var(--color-border-strong);
+  --color-overlay: var(--color-overlay);
+
+  --font-display: var(--font-serif-display);
+  --font-text: var(--font-serif-text);
+}
+
+* {
+  border-color: var(--color-border);
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background: var(--color-bg);
+  color: var(--color-fg);
+  font-family: var(--font-serif-text), Georgia, serif;
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}
+
+.font-display {
+  font-family: var(--font-serif-display), Georgia, serif;
+}
+
+/* Fine hairline rule used sparingly for editorial dividers */
+.hr-fine {
+  height: 1px;
+  background: var(--color-border-strong);
+  border: none;
+}
+
+/* Reveal-on-scroll utility, paired with IntersectionObserver in ScrollReveal component */
+.reveal {
+  opacity: 0;
+  transform: translateY(14px);
+  transition: opacity 0.9s cubic-bezier(0.16, 1, 0.3, 1), transform 0.9s cubic-bezier(0.16, 1, 0.3, 1);
+}
+.reveal.is-visible {
+  opacity: 1;
+  transform: translateY(0);
+}
+
+::selection {
+  background: var(--color-accent);
+  color: var(--color-on-accent);
+}
+
+@keyframes scene-pan {
+  0% {
+    transform: scale(1.04) translate(0, 0);
+  }
+  50% {
+    transform: scale(1.1) translate(-0.6%, -0.4%);
+  }
+  100% {
+    transform: scale(1.04) translate(0, 0);
+  }
+}
+
+.animate-scene-pan {
+  animation: scene-pan 28s ease-in-out infinite;
+  transform-origin: center;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .animate-scene-pan {
+    animation: none;
+  }
+}

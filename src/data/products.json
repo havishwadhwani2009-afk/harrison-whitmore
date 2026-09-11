@@ -1,0 +1,1960 @@
+[
+  {
+    "id": "p001",
+    "slug": "men-positano-oxford-shirt",
+    "name": "Positano Oxford Shirt",
+    "gender": "men",
+    "category": "tops",
+    "subcategory": "shirts",
+    "collection": "Amalfi Coast",
+    "price": 165,
+    "currency": "GBP",
+    "colors": [
+      {
+        "name": "Cream",
+        "hex": "#efe7d6"
+      },
+      {
+        "name": "Navy",
+        "hex": "#1f3153"
+      }
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "feel": "A crisp yet breathable hand with just enough structure to hold a collar's shape through a long lunch on the terrace.",
+    "careInstructions": [
+      "Machine wash cold, gentle cycle",
+      "Iron on medium heat while slightly damp",
+      "Do not tumble dry"
+    ],
+    "material": "100% Cotton Oxford",
+    "fit": "tailored",
+    "season": "spring",
+    "rating": 4.2,
+    "reviewCount": 38,
+    "isNew": false,
+    "isBestSeller": true,
+    "stock": 18,
+    "pairsWith": [
+      "p021",
+      "p020",
+      "p019"
+    ],
+    "tone": "cream"
+  },
+  {
+    "id": "p002",
+    "slug": "men-belgravia-poplin-shirt",
+    "name": "Belgravia Poplin Shirt",
+    "gender": "men",
+    "category": "tops",
+    "subcategory": "shirts",
+    "collection": "London Townhouse",
+    "price": 175,
+    "currency": "GBP",
+    "colors": [
+      {
+        "name": "Cream",
+        "hex": "#efe7d6"
+      },
+      {
+        "name": "Charcoal",
+        "hex": "#454a52"
+      }
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "feel": "Smooth and cool against the skin, with a fine, almost paper-like drape that layers beautifully beneath a sweater.",
+    "careInstructions": [
+      "Dry clean recommended",
+      "Iron on low heat",
+      "Store on a wooden hanger"
+    ],
+    "material": "Egyptian Cotton Poplin",
+    "fit": "slim",
+    "season": "all-season",
+    "rating": 4.9,
+    "reviewCount": 51,
+    "isNew": false,
+    "isBestSeller": false,
+    "stock": 23,
+    "pairsWith": [
+      "p021",
+      "p020",
+      "p019"
+    ],
+    "tone": "cream"
+  },
+  {
+    "id": "p003",
+    "slug": "men-sardinia-linen-shirt",
+    "name": "Sardinia Linen Shirt",
+    "gender": "men",
+    "category": "tops",
+    "subcategory": "shirts",
+    "collection": "Amalfi Coast",
+    "price": 155,
+    "currency": "GBP",
+    "colors": [
+      {
+        "name": "Stone",
+        "hex": "#c7c1ae"
+      },
+      {
+        "name": "Olive",
+        "hex": "#787c56"
+      }
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "feel": "Light and airy with a soft, relaxed drape that only grows softer with every wear — made for warm, unhurried afternoons.",
+    "careInstructions": [
+      "Hand wash or gentle machine cycle",
+      "Line dry away from direct sun",
+      "Iron while damp for a crisp finish"
+    ],
+    "material": "100% European Linen",
+    "fit": "relaxed",
+    "season": "summer",
+    "rating": 4.5,
+    "reviewCount": 64,
+    "isNew": true,
+    "isBestSeller": false,
+    "stock": 28,
+    "pairsWith": [
+      "p021",
+      "p020",
+      "p019"
+    ],
+    "tone": "stone"
+  },
+  {
+    "id": "p004",
+    "slug": "men-portofino-knit-polo",
+    "name": "Portofino Knit Polo",
+    "gender": "men",
+    "category": "tops",
+    "subcategory": "polos",
+    "collection": "Amalfi Coast",
+    "price": 135,
+    "currency": "GBP",
+    "colors": [
+      {
+        "name": "Navy",
+        "hex": "#1f3153"
+      },
+      {
+        "name": "Burgundy",
+        "hex": "#6b333a"
+      }
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "feel": "Dense, fine-gauge knit that sits close to the body with a subtle sheen — cool to the touch even in warm weather.",
+    "careInstructions": [
+      "Hand wash cold",
+      "Dry flat",
+      "Do not wring"
+    ],
+    "material": "Mercerised Cotton",
+    "fit": "regular",
+    "season": "summer",
+    "rating": 4.1,
+    "reviewCount": 77,
+    "isNew": false,
+    "isBestSeller": true,
+    "stock": 33,
+    "pairsWith": [
+      "p021",
+      "p020",
+      "p019"
+    ],
+    "tone": "navy"
+  },
+  {
+    "id": "p005",
+    "slug": "men-highgate-pique-polo",
+    "name": "Highgate Pique Polo",
+    "gender": "men",
+    "category": "tops",
+    "subcategory": "polos",
+    "collection": "London Townhouse",
+    "price": 120,
+    "currency": "GBP",
+    "colors": [
+      {
+        "name": "Cream",
+        "hex": "#efe7d6"
+      },
+      {
+        "name": "Olive",
+        "hex": "#787c56"
+      }
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "feel": "A textured, waffled hand that breathes easily and holds its shape from the first tee time to the last.",
+    "careInstructions": [
+      "Machine wash cold",
+      "Do not bleach",
+      "Cool iron if needed"
+    ],
+    "material": "Cotton Piqué",
+    "fit": "regular",
+    "season": "spring",
+    "rating": 4.8,
+    "reviewCount": 90,
+    "isNew": false,
+    "isBestSeller": false,
+    "stock": 8,
+    "pairsWith": [
+      "p021",
+      "p020",
+      "p019"
+    ],
+    "tone": "cream"
+  },
+  {
+    "id": "p006",
+    "slug": "men-windsor-long-sleeve-polo",
+    "name": "Windsor Long-Sleeve Polo",
+    "gender": "men",
+    "category": "tops",
+    "subcategory": "polos",
+    "collection": "Highland Tweed",
+    "price": 145,
+    "currency": "GBP",
+    "colors": [
+      {
+        "name": "Charcoal",
+        "hex": "#454a52"
+      },
+      {
+        "name": "Navy",
+        "hex": "#1f3153"
+      }
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "feel": "Substantial and warm without bulk, brushed softly on the inside for a comforting next-to-skin feel.",
+    "careInstructions": [
+      "Hand wash cold",
+      "Reshape and dry flat"
+    ],
+    "material": "Brushed Cotton",
+    "fit": "regular",
+    "season": "autumn",
+    "rating": 4.4,
+    "reviewCount": 103,
+    "isNew": false,
+    "isBestSeller": false,
+    "stock": 13,
+    "pairsWith": [
+      "p021",
+      "p020",
+      "p019"
+    ],
+    "tone": "charcoal"
+  },
+  {
+    "id": "p007",
+    "slug": "men-highland-merino-crewneck",
+    "name": "Highland Merino Crewneck",
+    "gender": "men",
+    "category": "tops",
+    "subcategory": "sweaters",
+    "collection": "Highland Tweed",
+    "price": 210,
+    "currency": "GBP",
+    "colors": [
+      {
+        "name": "Olive",
+        "hex": "#787c56"
+      },
+      {
+        "name": "Charcoal",
+        "hex": "#454a52"
+      }
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "feel": "Featherlight yet insulating, with a fine, soft hand that never itches and drapes with quiet elegance.",
+    "careInstructions": [
+      "Dry clean or hand wash cold",
+      "Dry flat, reshape while damp",
+      "Store folded, not hung"
+    ],
+    "material": "Extra-Fine Merino Wool",
+    "fit": "regular",
+    "season": "winter",
+    "rating": 4,
+    "reviewCount": 116,
+    "isNew": false,
+    "isBestSeller": true,
+    "stock": 18,
+    "pairsWith": [
+      "p021",
+      "p020",
+      "p019"
+    ],
+    "tone": "olive"
+  },
+  {
+    "id": "p008",
+    "slug": "men-balmoral-shawl-collar-sweater",
+    "name": "Balmoral Shawl-Collar Sweater",
+    "gender": "men",
+    "category": "tops",
+    "subcategory": "sweaters",
+    "collection": "Highland Tweed",
+    "price": 245,
+    "currency": "GBP",
+    "colors": [
+      {
+        "name": "Stone",
+        "hex": "#c7c1ae"
+      },
+      {
+        "name": "Navy",
+        "hex": "#1f3153"
+      }
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "feel": "A substantial, ribbed hand with real weight and warmth — the kind of sweater that feels like an heirloom from the first wear.",
+    "careInstructions": [
+      "Dry clean recommended",
+      "Store flat with cedar protection"
+    ],
+    "material": "Shetland Wool",
+    "fit": "relaxed",
+    "season": "winter",
+    "rating": 4.7,
+    "reviewCount": 129,
+    "isNew": false,
+    "isBestSeller": false,
+    "stock": 23,
+    "pairsWith": [
+      "p021",
+      "p020",
+      "p019"
+    ],
+    "tone": "stone"
+  },
+  {
+    "id": "p009",
+    "slug": "men-cambridge-cashmere-crewneck",
+    "name": "Cambridge Cashmere Crewneck",
+    "gender": "men",
+    "category": "tops",
+    "subcategory": "sweaters",
+    "collection": "London Townhouse",
+    "price": 320,
+    "currency": "GBP",
+    "colors": [
+      {
+        "name": "Navy",
+        "hex": "#1f3153"
+      },
+      {
+        "name": "Cream",
+        "hex": "#efe7d6"
+      }
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "feel": "Extraordinarily soft with a light, almost weightless warmth that settles close to the body without ever feeling heavy.",
+    "careInstructions": [
+      "Dry clean only",
+      "Fold and store with a cedar block"
+    ],
+    "material": "100% Mongolian Cashmere",
+    "fit": "regular",
+    "season": "winter",
+    "rating": 4.3,
+    "reviewCount": 142,
+    "isNew": true,
+    "isBestSeller": false,
+    "stock": 28,
+    "pairsWith": [
+      "p021",
+      "p020",
+      "p019"
+    ],
+    "tone": "navy"
+  },
+  {
+    "id": "p010",
+    "slug": "men-chatsworth-shawl-cardigan",
+    "name": "Chatsworth Shawl Cardigan",
+    "gender": "men",
+    "category": "tops",
+    "subcategory": "cardigans",
+    "collection": "Highland Tweed",
+    "price": 275,
+    "currency": "GBP",
+    "colors": [
+      {
+        "name": "Burgundy",
+        "hex": "#6b333a"
+      },
+      {
+        "name": "Olive",
+        "hex": "#787c56"
+      }
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "feel": "A generous, brushed hand with real heft — settles over the shoulders like a favourite blanket on a cold morning.",
+    "careInstructions": [
+      "Dry clean recommended",
+      "Air between wears rather than washing"
+    ],
+    "material": "Lambswool Blend",
+    "fit": "relaxed",
+    "season": "winter",
+    "rating": 3.9,
+    "reviewCount": 15,
+    "isNew": false,
+    "isBestSeller": false,
+    "stock": 33,
+    "pairsWith": [
+      "p021",
+      "p020",
+      "p019"
+    ],
+    "tone": "burgundy"
+  },
+  {
+    "id": "p011",
+    "slug": "men-oxford-quarter-zip-cardigan",
+    "name": "Oxford Quarter-Zip Cardigan",
+    "gender": "men",
+    "category": "tops",
+    "subcategory": "cardigans",
+    "collection": "London Townhouse",
+    "price": 230,
+    "currency": "GBP",
+    "colors": [
+      {
+        "name": "Charcoal",
+        "hex": "#454a52"
+      },
+      {
+        "name": "Stone",
+        "hex": "#c7c1ae"
+      }
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "feel": "Fine-knit and close-fitting, with a smooth, cool hand that layers easily beneath a jacket without adding bulk.",
+    "careInstructions": [
+      "Hand wash cold",
+      "Dry flat"
+    ],
+    "material": "Merino Wool",
+    "fit": "slim",
+    "season": "autumn",
+    "rating": 4.6,
+    "reviewCount": 28,
+    "isNew": false,
+    "isBestSeller": false,
+    "stock": 8,
+    "pairsWith": [
+      "p021",
+      "p020",
+      "p019"
+    ],
+    "tone": "charcoal"
+  },
+  {
+    "id": "p012",
+    "slug": "men-chelsea-pleated-trouser",
+    "name": "Chelsea Pleated Trouser",
+    "gender": "men",
+    "category": "bottoms",
+    "subcategory": "trousers",
+    "collection": "London Townhouse",
+    "price": 195,
+    "currency": "GBP",
+    "colors": [
+      {
+        "name": "Navy",
+        "hex": "#1f3153"
+      },
+      {
+        "name": "Charcoal",
+        "hex": "#454a52"
+      }
+    ],
+    "sizes": [
+      "28",
+      "30",
+      "32",
+      "34",
+      "36",
+      "38"
+    ],
+    "feel": "A fluid, fine-wool drape with just enough structure to hold a sharp crease from morning meetings into evening.",
+    "careInstructions": [
+      "Dry clean only",
+      "Steam to refresh, avoid direct ironing on the crease"
+    ],
+    "material": "Wool Flannel",
+    "fit": "tailored",
+    "season": "autumn",
+    "rating": 4.2,
+    "reviewCount": 41,
+    "isNew": false,
+    "isBestSeller": true,
+    "stock": 13,
+    "pairsWith": [
+      "p001",
+      "p002",
+      "p003"
+    ],
+    "tone": "navy"
+  },
+  {
+    "id": "p013",
+    "slug": "men-mayfair-wide-leg-trouser",
+    "name": "Mayfair Wide-Leg Trouser",
+    "gender": "men",
+    "category": "bottoms",
+    "subcategory": "trousers",
+    "collection": "London Townhouse",
+    "price": 185,
+    "currency": "GBP",
+    "colors": [
+      {
+        "name": "Stone",
+        "hex": "#c7c1ae"
+      },
+      {
+        "name": "Cream",
+        "hex": "#efe7d6"
+      }
+    ],
+    "sizes": [
+      "28",
+      "30",
+      "32",
+      "34",
+      "36",
+      "38"
+    ],
+    "feel": "Light and free-moving with a soft, brushed hand — cuts a relaxed but polished silhouette.",
+    "careInstructions": [
+      "Dry clean recommended"
+    ],
+    "material": "Wool-Cotton Blend",
+    "fit": "relaxed",
+    "season": "all-season",
+    "rating": 4.9,
+    "reviewCount": 54,
+    "isNew": false,
+    "isBestSeller": false,
+    "stock": 18,
+    "pairsWith": [
+      "p001",
+      "p002",
+      "p003"
+    ],
+    "tone": "stone"
+  },
+  {
+    "id": "p014",
+    "slug": "men-capri-cotton-chino",
+    "name": "Capri Cotton Chino",
+    "gender": "men",
+    "category": "bottoms",
+    "subcategory": "chinos",
+    "collection": "Amalfi Coast",
+    "price": 145,
+    "currency": "GBP",
+    "colors": [
+      {
+        "name": "Stone",
+        "hex": "#c7c1ae"
+      },
+      {
+        "name": "Olive",
+        "hex": "#787c56"
+      }
+    ],
+    "sizes": [
+      "28",
+      "30",
+      "32",
+      "34",
+      "36",
+      "38"
+    ],
+    "feel": "Soft, brushed cotton with gentle stretch — moves easily and softens further with every wash.",
+    "careInstructions": [
+      "Machine wash cold",
+      "Tumble dry low",
+      "Warm iron if needed"
+    ],
+    "material": "Cotton Twill with Stretch",
+    "fit": "slim",
+    "season": "summer",
+    "rating": 4.5,
+    "reviewCount": 67,
+    "isNew": true,
+    "isBestSeller": false,
+    "stock": 23,
+    "pairsWith": [
+      "p001",
+      "p002",
+      "p003"
+    ],
+    "tone": "stone"
+  },
+  {
+    "id": "p015",
+    "slug": "men-marlborough-chino",
+    "name": "Marlborough Chino",
+    "gender": "men",
+    "category": "bottoms",
+    "subcategory": "chinos",
+    "collection": "London Townhouse",
+    "price": 150,
+    "currency": "GBP",
+    "colors": [
+      {
+        "name": "Navy",
+        "hex": "#1f3153"
+      },
+      {
+        "name": "Cream",
+        "hex": "#efe7d6"
+      }
+    ],
+    "sizes": [
+      "28",
+      "30",
+      "32",
+      "34",
+      "36",
+      "38"
+    ],
+    "feel": "A substantial cotton twill with a smooth, dry hand that tailors sharply without ever feeling stiff.",
+    "careInstructions": [
+      "Machine wash cold",
+      "Line dry"
+    ],
+    "material": "Cotton Twill",
+    "fit": "tailored",
+    "season": "spring",
+    "rating": 4.1,
+    "reviewCount": 80,
+    "isNew": false,
+    "isBestSeller": false,
+    "stock": 28,
+    "pairsWith": [
+      "p001",
+      "p002",
+      "p003"
+    ],
+    "tone": "navy"
+  },
+  {
+    "id": "p016",
+    "slug": "men-savile-selvedge-jean",
+    "name": "Savile Selvedge Jean",
+    "gender": "men",
+    "category": "bottoms",
+    "subcategory": "jeans",
+    "collection": "London Townhouse",
+    "price": 175,
+    "currency": "GBP",
+    "colors": [
+      {
+        "name": "Navy",
+        "hex": "#1f3153"
+      },
+      {
+        "name": "Charcoal",
+        "hex": "#454a52"
+      }
+    ],
+    "sizes": [
+      "28",
+      "30",
+      "32",
+      "34",
+      "36",
+      "38"
+    ],
+    "feel": "Dense, dry-hand selvedge denim with real structure — softens and moulds to you over months of wear.",
+    "careInstructions": [
+      "Wash sparingly, cold and inside-out",
+      "Hang dry"
+    ],
+    "material": "14oz Selvedge Denim",
+    "fit": "slim",
+    "season": "all-season",
+    "rating": 4.8,
+    "reviewCount": 93,
+    "isNew": false,
+    "isBestSeller": false,
+    "stock": 33,
+    "pairsWith": [
+      "p001",
+      "p002",
+      "p003"
+    ],
+    "tone": "navy"
+  },
+  {
+    "id": "p017",
+    "slug": "men-kensington-straight-jean",
+    "name": "Kensington Straight Jean",
+    "gender": "men",
+    "category": "bottoms",
+    "subcategory": "jeans",
+    "collection": "London Townhouse",
+    "price": 165,
+    "currency": "GBP",
+    "colors": [
+      {
+        "name": "Stone",
+        "hex": "#c7c1ae"
+      },
+      {
+        "name": "Navy",
+        "hex": "#1f3153"
+      }
+    ],
+    "sizes": [
+      "28",
+      "30",
+      "32",
+      "34",
+      "36",
+      "38"
+    ],
+    "feel": "A softer, broken-in hand from the first wear, with a touch of stretch for easy, all-day comfort.",
+    "careInstructions": [
+      "Machine wash cold, inside-out",
+      "Tumble dry low"
+    ],
+    "material": "Cotton Denim with Stretch",
+    "fit": "regular",
+    "season": "all-season",
+    "rating": 4.4,
+    "reviewCount": 106,
+    "isNew": false,
+    "isBestSeller": false,
+    "stock": 8,
+    "pairsWith": [
+      "p001",
+      "p002",
+      "p003"
+    ],
+    "tone": "stone"
+  },
+  {
+    "id": "p018",
+    "slug": "men-montenapoleone-chronograph",
+    "name": "Montenapoleone Chronograph",
+    "gender": "men",
+    "category": "accessories",
+    "subcategory": "watches",
+    "collection": "London Townhouse",
+    "price": 890,
+    "currency": "GBP",
+    "colors": [
+      {
+        "name": "Navy",
+        "hex": "#1f3153"
+      },
+      {
+        "name": "Charcoal",
+        "hex": "#454a52"
+      }
+    ],
+    "sizes": [
+      "One Size"
+    ],
+    "feel": "Substantial on the wrist with a cool, polished steel case and a smooth, supple leather strap that softens over time.",
+    "careInstructions": [
+      "Avoid prolonged water exposure",
+      "Wipe case with a soft cloth after wear"
+    ],
+    "material": "Stainless Steel & Leather",
+    "fit": "regular",
+    "season": "all-season",
+    "rating": 4,
+    "reviewCount": 119,
+    "isNew": false,
+    "isBestSeller": true,
+    "stock": 13,
+    "pairsWith": [
+      "p017",
+      "p016",
+      "p015"
+    ],
+    "tone": "navy"
+  },
+  {
+    "id": "p019",
+    "slug": "men-ascot-dress-watch",
+    "name": "Ascot Dress Watch",
+    "gender": "men",
+    "category": "accessories",
+    "subcategory": "watches",
+    "collection": "London Townhouse",
+    "price": 650,
+    "currency": "GBP",
+    "colors": [
+      {
+        "name": "Cream",
+        "hex": "#efe7d6"
+      },
+      {
+        "name": "Burgundy",
+        "hex": "#6b333a"
+      }
+    ],
+    "sizes": [
+      "One Size"
+    ],
+    "feel": "Slim and understated on the wrist, with a smooth crocodile-embossed strap that slips easily under a cuff.",
+    "careInstructions": [
+      "Keep away from moisture",
+      "Store in the provided pouch"
+    ],
+    "material": "Stainless Steel & Embossed Leather",
+    "fit": "slim",
+    "season": "all-season",
+    "rating": 4.7,
+    "reviewCount": 132,
+    "isNew": false,
+    "isBestSeller": false,
+    "stock": 18,
+    "pairsWith": [
+      "p017",
+      "p016",
+      "p015"
+    ],
+    "tone": "cream"
+  },
+  {
+    "id": "p020",
+    "slug": "men-portofino-acetate-sunglasses",
+    "name": "Portofino Acetate Sunglasses",
+    "gender": "men",
+    "category": "accessories",
+    "subcategory": "eyewear",
+    "collection": "Amalfi Coast",
+    "price": 245,
+    "currency": "GBP",
+    "colors": [
+      {
+        "name": "Olive",
+        "hex": "#787c56"
+      },
+      {
+        "name": "Cream",
+        "hex": "#efe7d6"
+      }
+    ],
+    "sizes": [
+      "One Size"
+    ],
+    "feel": "Lightweight, warm acetate with a smooth, almost glassy finish that feels substantial without weighing on the nose.",
+    "careInstructions": [
+      "Clean with the microfibre pouch provided",
+      "Store in the hard case when not worn"
+    ],
+    "material": "Italian Acetate",
+    "fit": "regular",
+    "season": "summer",
+    "rating": 4.3,
+    "reviewCount": 145,
+    "isNew": true,
+    "isBestSeller": false,
+    "stock": 23,
+    "pairsWith": [
+      "p017",
+      "p016",
+      "p015"
+    ],
+    "tone": "olive"
+  },
+  {
+    "id": "p021",
+    "slug": "men-belgravia-full-grain-belt",
+    "name": "Belgravia Full-Grain Belt",
+    "gender": "men",
+    "category": "accessories",
+    "subcategory": "belts",
+    "collection": "London Townhouse",
+    "price": 135,
+    "currency": "GBP",
+    "colors": [
+      {
+        "name": "Burgundy",
+        "hex": "#6b333a"
+      },
+      {
+        "name": "Charcoal",
+        "hex": "#454a52"
+      }
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "feel": "Firm, full-grain leather that holds its shape from day one and develops a rich patina with age.",
+    "careInstructions": [
+      "Condition occasionally with leather balm",
+      "Keep away from prolonged moisture"
+    ],
+    "material": "Full-Grain Italian Leather",
+    "fit": "regular",
+    "season": "all-season",
+    "rating": 3.9,
+    "reviewCount": 18,
+    "isNew": false,
+    "isBestSeller": false,
+    "stock": 28,
+    "pairsWith": [
+      "p017",
+      "p016",
+      "p015"
+    ],
+    "tone": "burgundy"
+  },
+  {
+    "id": "p022",
+    "slug": "women-capri-silk-shirt",
+    "name": "Capri Silk Shirt",
+    "gender": "women",
+    "category": "tops",
+    "subcategory": "shirts",
+    "collection": "Amalfi Coast",
+    "price": 195,
+    "currency": "GBP",
+    "colors": [
+      {
+        "name": "Cream",
+        "hex": "#efe7d6"
+      },
+      {
+        "name": "Burgundy",
+        "hex": "#6b333a"
+      }
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "feel": "Fluid and cool against the skin with a soft, liquid drape that moves with you rather than against you.",
+    "careInstructions": [
+      "Dry clean only",
+      "Store on a padded hanger"
+    ],
+    "material": "Mulberry Silk",
+    "fit": "relaxed",
+    "season": "summer",
+    "rating": 4.6,
+    "reviewCount": 31,
+    "isNew": false,
+    "isBestSeller": true,
+    "stock": 33,
+    "pairsWith": [
+      "p042",
+      "p041",
+      "p040"
+    ],
+    "tone": "cream"
+  },
+  {
+    "id": "p023",
+    "slug": "women-belgravia-cotton-shirt",
+    "name": "Belgravia Cotton Shirt",
+    "gender": "women",
+    "category": "tops",
+    "subcategory": "shirts",
+    "collection": "London Townhouse",
+    "price": 165,
+    "currency": "GBP",
+    "colors": [
+      {
+        "name": "Cream",
+        "hex": "#efe7d6"
+      },
+      {
+        "name": "Navy",
+        "hex": "#1f3153"
+      }
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "feel": "Crisp yet soft, with a fine, smooth hand that holds a tailored line through a full day at the desk.",
+    "careInstructions": [
+      "Machine wash cold",
+      "Iron on medium heat"
+    ],
+    "material": "Egyptian Cotton Poplin",
+    "fit": "tailored",
+    "season": "all-season",
+    "rating": 4.2,
+    "reviewCount": 44,
+    "isNew": false,
+    "isBestSeller": false,
+    "stock": 8,
+    "pairsWith": [
+      "p042",
+      "p041",
+      "p040"
+    ],
+    "tone": "cream"
+  },
+  {
+    "id": "p024",
+    "slug": "women-sienna-linen-shirt",
+    "name": "Sienna Linen Shirt",
+    "gender": "women",
+    "category": "tops",
+    "subcategory": "shirts",
+    "collection": "Amalfi Coast",
+    "price": 155,
+    "currency": "GBP",
+    "colors": [
+      {
+        "name": "Olive",
+        "hex": "#787c56"
+      },
+      {
+        "name": "Stone",
+        "hex": "#c7c1ae"
+      }
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "feel": "Airy and cool with a soft, textured hand that grows more supple after each gentle wash.",
+    "careInstructions": [
+      "Hand wash cold",
+      "Line dry away from direct sun"
+    ],
+    "material": "100% European Linen",
+    "fit": "relaxed",
+    "season": "summer",
+    "rating": 4.9,
+    "reviewCount": 57,
+    "isNew": true,
+    "isBestSeller": false,
+    "stock": 13,
+    "pairsWith": [
+      "p042",
+      "p041",
+      "p040"
+    ],
+    "tone": "olive"
+  },
+  {
+    "id": "p025",
+    "slug": "women-riviera-knit-polo",
+    "name": "Riviera Knit Polo",
+    "gender": "women",
+    "category": "tops",
+    "subcategory": "polos",
+    "collection": "Amalfi Coast",
+    "price": 125,
+    "currency": "GBP",
+    "colors": [
+      {
+        "name": "Cream",
+        "hex": "#efe7d6"
+      },
+      {
+        "name": "Olive",
+        "hex": "#787c56"
+      }
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "feel": "Fine-gauge and close-knit with a smooth, cool hand — polished enough for lunch, easy enough for the course.",
+    "careInstructions": [
+      "Hand wash cold",
+      "Dry flat"
+    ],
+    "material": "Mercerised Cotton",
+    "fit": "slim",
+    "season": "summer",
+    "rating": 4.5,
+    "reviewCount": 70,
+    "isNew": false,
+    "isBestSeller": false,
+    "stock": 18,
+    "pairsWith": [
+      "p042",
+      "p041",
+      "p040"
+    ],
+    "tone": "cream"
+  },
+  {
+    "id": "p026",
+    "slug": "women-highgate-pique-polo",
+    "name": "Highgate Pique Polo",
+    "gender": "women",
+    "category": "tops",
+    "subcategory": "polos",
+    "collection": "London Townhouse",
+    "price": 115,
+    "currency": "GBP",
+    "colors": [
+      {
+        "name": "Navy",
+        "hex": "#1f3153"
+      },
+      {
+        "name": "Burgundy",
+        "hex": "#6b333a"
+      }
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "feel": "A textured, breathable weave that holds its shape beautifully, soft against the skin from the first wear.",
+    "careInstructions": [
+      "Machine wash cold",
+      "Cool iron if needed"
+    ],
+    "material": "Cotton Piqué",
+    "fit": "regular",
+    "season": "spring",
+    "rating": 4.1,
+    "reviewCount": 83,
+    "isNew": false,
+    "isBestSeller": true,
+    "stock": 23,
+    "pairsWith": [
+      "p042",
+      "p041",
+      "p040"
+    ],
+    "tone": "navy"
+  },
+  {
+    "id": "p027",
+    "slug": "women-windsor-ribbed-polo",
+    "name": "Windsor Ribbed Polo",
+    "gender": "women",
+    "category": "tops",
+    "subcategory": "polos",
+    "collection": "Highland Tweed",
+    "price": 130,
+    "currency": "GBP",
+    "colors": [
+      {
+        "name": "Stone",
+        "hex": "#c7c1ae"
+      },
+      {
+        "name": "Charcoal",
+        "hex": "#454a52"
+      }
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "feel": "Fine ribbed knit with gentle stretch, offering a close, flattering fit that stays soft through the day.",
+    "careInstructions": [
+      "Hand wash cold",
+      "Reshape and dry flat"
+    ],
+    "material": "Cotton-Cashmere Blend",
+    "fit": "slim",
+    "season": "autumn",
+    "rating": 4.8,
+    "reviewCount": 96,
+    "isNew": false,
+    "isBestSeller": false,
+    "stock": 28,
+    "pairsWith": [
+      "p042",
+      "p041",
+      "p040"
+    ],
+    "tone": "stone"
+  },
+  {
+    "id": "p028",
+    "slug": "women-highland-merino-crewneck",
+    "name": "Highland Merino Crewneck",
+    "gender": "women",
+    "category": "tops",
+    "subcategory": "sweaters",
+    "collection": "Highland Tweed",
+    "price": 205,
+    "currency": "GBP",
+    "colors": [
+      {
+        "name": "Burgundy",
+        "hex": "#6b333a"
+      },
+      {
+        "name": "Cream",
+        "hex": "#efe7d6"
+      }
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "feel": "Featherlight and soft, with a gentle warmth that layers beautifully beneath a coat or alone with tailored trousers.",
+    "careInstructions": [
+      "Dry clean or hand wash cold",
+      "Dry flat"
+    ],
+    "material": "Extra-Fine Merino Wool",
+    "fit": "regular",
+    "season": "winter",
+    "rating": 4.4,
+    "reviewCount": 109,
+    "isNew": false,
+    "isBestSeller": false,
+    "stock": 33,
+    "pairsWith": [
+      "p042",
+      "p041",
+      "p040"
+    ],
+    "tone": "burgundy"
+  },
+  {
+    "id": "p029",
+    "slug": "women-chelsea-cashmere-crewneck",
+    "name": "Chelsea Cashmere Crewneck",
+    "gender": "women",
+    "category": "tops",
+    "subcategory": "sweaters",
+    "collection": "London Townhouse",
+    "price": 310,
+    "currency": "GBP",
+    "colors": [
+      {
+        "name": "Stone",
+        "hex": "#c7c1ae"
+      },
+      {
+        "name": "Navy",
+        "hex": "#1f3153"
+      }
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "feel": "Exceptionally soft and light, with a gentle warmth that never feels heavy, even layered under a coat.",
+    "careInstructions": [
+      "Dry clean only",
+      "Fold and store with a cedar block"
+    ],
+    "material": "100% Mongolian Cashmere",
+    "fit": "relaxed",
+    "season": "winter",
+    "rating": 4,
+    "reviewCount": 122,
+    "isNew": false,
+    "isBestSeller": true,
+    "stock": 8,
+    "pairsWith": [
+      "p042",
+      "p041",
+      "p040"
+    ],
+    "tone": "stone"
+  },
+  {
+    "id": "p030",
+    "slug": "women-balmoral-roll-neck-sweater",
+    "name": "Balmoral Roll-Neck Sweater",
+    "gender": "women",
+    "category": "tops",
+    "subcategory": "sweaters",
+    "collection": "Highland Tweed",
+    "price": 235,
+    "currency": "GBP",
+    "colors": [
+      {
+        "name": "Olive",
+        "hex": "#787c56"
+      },
+      {
+        "name": "Charcoal",
+        "hex": "#454a52"
+      }
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "feel": "A soft, fine-ribbed roll neck with real warmth, sitting close to the body without ever feeling restrictive.",
+    "careInstructions": [
+      "Dry clean recommended"
+    ],
+    "material": "Merino-Cashmere Blend",
+    "fit": "slim",
+    "season": "winter",
+    "rating": 4.7,
+    "reviewCount": 135,
+    "isNew": true,
+    "isBestSeller": false,
+    "stock": 13,
+    "pairsWith": [
+      "p042",
+      "p041",
+      "p040"
+    ],
+    "tone": "olive"
+  },
+  {
+    "id": "p031",
+    "slug": "women-chatsworth-wrap-cardigan",
+    "name": "Chatsworth Wrap Cardigan",
+    "gender": "women",
+    "category": "tops",
+    "subcategory": "cardigans",
+    "collection": "Highland Tweed",
+    "price": 260,
+    "currency": "GBP",
+    "colors": [
+      {
+        "name": "Cream",
+        "hex": "#efe7d6"
+      },
+      {
+        "name": "Burgundy",
+        "hex": "#6b333a"
+      }
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "feel": "A soft, brushed wool with a fluid drape that wraps and ties easily over the shoulders.",
+    "careInstructions": [
+      "Dry clean recommended",
+      "Air between wears"
+    ],
+    "material": "Lambswool Blend",
+    "fit": "relaxed",
+    "season": "autumn",
+    "rating": 4.3,
+    "reviewCount": 148,
+    "isNew": false,
+    "isBestSeller": false,
+    "stock": 18,
+    "pairsWith": [
+      "p042",
+      "p041",
+      "p040"
+    ],
+    "tone": "cream"
+  },
+  {
+    "id": "p032",
+    "slug": "women-oxford-longline-cardigan",
+    "name": "Oxford Longline Cardigan",
+    "gender": "women",
+    "category": "tops",
+    "subcategory": "cardigans",
+    "collection": "London Townhouse",
+    "price": 245,
+    "currency": "GBP",
+    "colors": [
+      {
+        "name": "Navy",
+        "hex": "#1f3153"
+      },
+      {
+        "name": "Stone",
+        "hex": "#c7c1ae"
+      }
+    ],
+    "sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "feel": "Fine-knit and lightweight with a smooth hand, falling in a soft, elongated line over tailored pieces.",
+    "careInstructions": [
+      "Hand wash cold",
+      "Dry flat"
+    ],
+    "material": "Merino Wool",
+    "fit": "regular",
+    "season": "autumn",
+    "rating": 3.9,
+    "reviewCount": 21,
+    "isNew": false,
+    "isBestSeller": false,
+    "stock": 23,
+    "pairsWith": [
+      "p042",
+      "p041",
+      "p040"
+    ],
+    "tone": "navy"
+  },
+  {
+    "id": "p033",
+    "slug": "women-chelsea-pleated-trouser",
+    "name": "Chelsea Pleated Trouser",
+    "gender": "women",
+    "category": "bottoms",
+    "subcategory": "trousers",
+    "collection": "London Townhouse",
+    "price": 190,
+    "currency": "GBP",
+    "colors": [
+      {
+        "name": "Navy",
+        "hex": "#1f3153"
+      },
+      {
+        "name": "Cream",
+        "hex": "#efe7d6"
+      }
+    ],
+    "sizes": [
+      "4",
+      "6",
+      "8",
+      "10",
+      "12",
+      "14"
+    ],
+    "feel": "A fluid wool drape with a soft pleat that holds its line beautifully from morning into evening.",
+    "careInstructions": [
+      "Dry clean only",
+      "Steam to refresh"
+    ],
+    "material": "Wool Flannel",
+    "fit": "tailored",
+    "season": "autumn",
+    "rating": 4.6,
+    "reviewCount": 34,
+    "isNew": false,
+    "isBestSeller": true,
+    "stock": 28,
+    "pairsWith": [
+      "p022",
+      "p023",
+      "p024"
+    ],
+    "tone": "navy"
+  },
+  {
+    "id": "p034",
+    "slug": "women-mayfair-wide-leg-trouser",
+    "name": "Mayfair Wide-Leg Trouser",
+    "gender": "women",
+    "category": "bottoms",
+    "subcategory": "trousers",
+    "collection": "London Townhouse",
+    "price": 180,
+    "currency": "GBP",
+    "colors": [
+      {
+        "name": "Stone",
+        "hex": "#c7c1ae"
+      },
+      {
+        "name": "Charcoal",
+        "hex": "#454a52"
+      }
+    ],
+    "sizes": [
+      "4",
+      "6",
+      "8",
+      "10",
+      "12",
+      "14"
+    ],
+    "feel": "Light and fluid with a soft, brushed hand, cutting a relaxed yet polished silhouette that skims rather than clings.",
+    "careInstructions": [
+      "Dry clean recommended"
+    ],
+    "material": "Wool-Cotton Blend",
+    "fit": "relaxed",
+    "season": "all-season",
+    "rating": 4.2,
+    "reviewCount": 47,
+    "isNew": false,
+    "isBestSeller": false,
+    "stock": 33,
+    "pairsWith": [
+      "p022",
+      "p023",
+      "p024"
+    ],
+    "tone": "stone"
+  },
+  {
+    "id": "p035",
+    "slug": "women-capri-cotton-chino",
+    "name": "Capri Cotton Chino",
+    "gender": "women",
+    "category": "bottoms",
+    "subcategory": "chinos",
+    "collection": "Amalfi Coast",
+    "price": 140,
+    "currency": "GBP",
+    "colors": [
+      {
+        "name": "Olive",
+        "hex": "#787c56"
+      },
+      {
+        "name": "Cream",
+        "hex": "#efe7d6"
+      }
+    ],
+    "sizes": [
+      "4",
+      "6",
+      "8",
+      "10",
+      "12",
+      "14"
+    ],
+    "feel": "Soft, brushed cotton with gentle stretch, moving easily and softening further with every wash.",
+    "careInstructions": [
+      "Machine wash cold",
+      "Tumble dry low"
+    ],
+    "material": "Cotton Twill with Stretch",
+    "fit": "slim",
+    "season": "summer",
+    "rating": 4.9,
+    "reviewCount": 60,
+    "isNew": false,
+    "isBestSeller": false,
+    "stock": 8,
+    "pairsWith": [
+      "p022",
+      "p023",
+      "p024"
+    ],
+    "tone": "olive"
+  },
+  {
+    "id": "p036",
+    "slug": "women-marlborough-chino",
+    "name": "Marlborough Chino",
+    "gender": "women",
+    "category": "bottoms",
+    "subcategory": "chinos",
+    "collection": "London Townhouse",
+    "price": 145,
+    "currency": "GBP",
+    "colors": [
+      {
+        "name": "Navy",
+        "hex": "#1f3153"
+      },
+      {
+        "name": "Stone",
+        "hex": "#c7c1ae"
+      }
+    ],
+    "sizes": [
+      "4",
+      "6",
+      "8",
+      "10",
+      "12",
+      "14"
+    ],
+    "feel": "A smooth, dry-hand cotton twill that tailors sharply while remaining soft and easy against the skin.",
+    "careInstructions": [
+      "Machine wash cold",
+      "Line dry"
+    ],
+    "material": "Cotton Twill",
+    "fit": "tailored",
+    "season": "spring",
+    "rating": 4.5,
+    "reviewCount": 73,
+    "isNew": true,
+    "isBestSeller": false,
+    "stock": 13,
+    "pairsWith": [
+      "p022",
+      "p023",
+      "p024"
+    ],
+    "tone": "navy"
+  },
+  {
+    "id": "p037",
+    "slug": "women-savile-straight-jean",
+    "name": "Savile Straight Jean",
+    "gender": "women",
+    "category": "bottoms",
+    "subcategory": "jeans",
+    "collection": "London Townhouse",
+    "price": 170,
+    "currency": "GBP",
+    "colors": [
+      {
+        "name": "Navy",
+        "hex": "#1f3153"
+      },
+      {
+        "name": "Charcoal",
+        "hex": "#454a52"
+      }
+    ],
+    "sizes": [
+      "24",
+      "26",
+      "28",
+      "30",
+      "32"
+    ],
+    "feel": "Dense, dry-hand denim with real structure, softening and moulding to you with every wear.",
+    "careInstructions": [
+      "Wash sparingly, cold and inside-out",
+      "Hang dry"
+    ],
+    "material": "12oz Selvedge Denim",
+    "fit": "slim",
+    "season": "all-season",
+    "rating": 4.1,
+    "reviewCount": 86,
+    "isNew": false,
+    "isBestSeller": false,
+    "stock": 18,
+    "pairsWith": [
+      "p022",
+      "p023",
+      "p024"
+    ],
+    "tone": "navy"
+  },
+  {
+    "id": "p038",
+    "slug": "women-kensington-high-rise-jean",
+    "name": "Kensington High-Rise Jean",
+    "gender": "women",
+    "category": "bottoms",
+    "subcategory": "jeans",
+    "collection": "London Townhouse",
+    "price": 160,
+    "currency": "GBP",
+    "colors": [
+      {
+        "name": "Stone",
+        "hex": "#c7c1ae"
+      },
+      {
+        "name": "Navy",
+        "hex": "#1f3153"
+      }
+    ],
+    "sizes": [
+      "24",
+      "26",
+      "28",
+      "30",
+      "32"
+    ],
+    "feel": "A softer, broken-in hand with a touch of stretch, sitting comfortably at the waist for all-day ease.",
+    "careInstructions": [
+      "Machine wash cold, inside-out",
+      "Tumble dry low"
+    ],
+    "material": "Cotton Denim with Stretch",
+    "fit": "regular",
+    "season": "all-season",
+    "rating": 4.8,
+    "reviewCount": 99,
+    "isNew": false,
+    "isBestSeller": true,
+    "stock": 23,
+    "pairsWith": [
+      "p022",
+      "p023",
+      "p024"
+    ],
+    "tone": "stone"
+  },
+  {
+    "id": "p039",
+    "slug": "women-mayfair-petite-watch",
+    "name": "Mayfair Petite Watch",
+    "gender": "women",
+    "category": "accessories",
+    "subcategory": "watches",
+    "collection": "London Townhouse",
+    "price": 720,
+    "currency": "GBP",
+    "colors": [
+      {
+        "name": "Cream",
+        "hex": "#efe7d6"
+      },
+      {
+        "name": "Navy",
+        "hex": "#1f3153"
+      }
+    ],
+    "sizes": [
+      "One Size"
+    ],
+    "feel": "Delicate on the wrist with a cool, polished case and a fine, supple leather strap that softens beautifully over time.",
+    "careInstructions": [
+      "Avoid prolonged water exposure",
+      "Store in the provided pouch"
+    ],
+    "material": "Stainless Steel & Leather",
+    "fit": "slim",
+    "season": "all-season",
+    "rating": 4.4,
+    "reviewCount": 112,
+    "isNew": false,
+    "isBestSeller": false,
+    "stock": 28,
+    "pairsWith": [
+      "p038",
+      "p037",
+      "p036"
+    ],
+    "tone": "cream"
+  },
+  {
+    "id": "p040",
+    "slug": "women-portofino-acetate-sunglasses",
+    "name": "Portofino Acetate Sunglasses",
+    "gender": "women",
+    "category": "accessories",
+    "subcategory": "eyewear",
+    "collection": "Amalfi Coast",
+    "price": 235,
+    "currency": "GBP",
+    "colors": [
+      {
+        "name": "Burgundy",
+        "hex": "#6b333a"
+      },
+      {
+        "name": "Cream",
+        "hex": "#efe7d6"
+      }
+    ],
+    "sizes": [
+      "One Size"
+    ],
+    "feel": "Lightweight, warm acetate with a smooth, glassy finish that sits comfortably for long afternoons in the sun.",
+    "careInstructions": [
+      "Clean with the microfibre pouch provided",
+      "Store in the hard case when not worn"
+    ],
+    "material": "Italian Acetate",
+    "fit": "regular",
+    "season": "summer",
+    "rating": 4,
+    "reviewCount": 125,
+    "isNew": false,
+    "isBestSeller": false,
+    "stock": 33,
+    "pairsWith": [
+      "p038",
+      "p037",
+      "p036"
+    ],
+    "tone": "burgundy"
+  },
+  {
+    "id": "p041",
+    "slug": "women-riviera-cat-eye-sunglasses",
+    "name": "Riviera Cat-Eye Sunglasses",
+    "gender": "women",
+    "category": "accessories",
+    "subcategory": "eyewear",
+    "collection": "Amalfi Coast",
+    "price": 250,
+    "currency": "GBP",
+    "colors": [
+      {
+        "name": "Stone",
+        "hex": "#c7c1ae"
+      },
+      {
+        "name": "Charcoal",
+        "hex": "#454a52"
+      }
+    ],
+    "sizes": [
+      "One Size"
+    ],
+    "feel": "A light, warm acetate frame with a smooth polish and gentle curve that flatters without ever feeling heavy.",
+    "careInstructions": [
+      "Store in the hard case when not worn"
+    ],
+    "material": "Italian Acetate",
+    "fit": "regular",
+    "season": "summer",
+    "rating": 4.7,
+    "reviewCount": 138,
+    "isNew": true,
+    "isBestSeller": false,
+    "stock": 8,
+    "pairsWith": [
+      "p038",
+      "p037",
+      "p036"
+    ],
+    "tone": "stone"
+  },
+  {
+    "id": "p042",
+    "slug": "women-belgravia-leather-belt",
+    "name": "Belgravia Leather Belt",
+    "gender": "women",
+    "category": "accessories",
+    "subcategory": "belts",
+    "collection": "London Townhouse",
+    "price": 125,
+    "currency": "GBP",
+    "colors": [
+      {
+        "name": "Burgundy",
+        "hex": "#6b333a"
+      },
+      {
+        "name": "Cream",
+        "hex": "#efe7d6"
+      }
+    ],
+    "sizes": [
+      "S",
+      "M",
+      "L"
+    ],
+    "feel": "Supple, full-grain leather with a soft hand that cinches easily and develops a rich patina with wear.",
+    "careInstructions": [
+      "Condition occasionally with leather balm"
+    ],
+    "material": "Full-Grain Italian Leather",
+    "fit": "regular",
+    "season": "all-season",
+    "rating": 4.3,
+    "reviewCount": 151,
+    "isNew": false,
+    "isBestSeller": false,
+    "stock": 13,
+    "pairsWith": [
+      "p038",
+      "p037",
+      "p036"
+    ],
+    "tone": "burgundy"
+  }
+]
